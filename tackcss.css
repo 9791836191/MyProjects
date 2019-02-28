@@ -1,0 +1,30 @@
+h1{
+  	width: 20%;
+ 	border: 5px solid red;
+  	padding: 20px;
+  	margin:200px;
+	font-size: 40px;	
+}
+
+h1 {
+  width: 50%;
+  height: 100px;
+  -webkit-transition: width .35s ease-in-out;
+  transition: width .35s ease-in-out;
+}
+
+h1:hover {
+  width: 70%;
+}
+
+input[type=text] {
+
+  width: 40%;
+  padding: 12px 20px;
+}
+
+h2{
+
+	margin:10px,10px;
+	font-size: 35px;
+}
